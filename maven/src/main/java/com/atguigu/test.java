@@ -6,5 +6,6 @@ public class test {
         System.out.println("更新一");
         System.out.println("更新二");
         System.out.println("分支修改");
+        System.out.println("远程分支修改");
     }
 }
